@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XC2 Class Picker", "XC2 Class Picker.csproj", "{0A3E6F06-E9FC-4473-8822-2A76C05ACA86}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{93E5F3DE-F3EC-4FBD-A985-E3E3BAF4E436}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0A2A4D3E-CDCF-42F3-9FA3-491DA675B8E3}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A3E6F06-E9FC-4473-8822-2A76C05ACA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3E6F06-E9FC-4473-8822-2A76C05ACA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3E6F06-E9FC-4473-8822-2A76C05ACA86}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3E6F06-E9FC-4473-8822-2A76C05ACA86}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{93E5F3DE-F3EC-4FBD-A985-E3E3BAF4E436}.Debug|Any CPU.ActiveCfg = Debug
+		{93E5F3DE-F3EC-4FBD-A985-E3E3BAF4E436}.Release|Any CPU.ActiveCfg = Debug
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83BBA7E7-0C22-4BA9-8BC2-E41374D23608}
+	EndGlobalSection
+EndGlobal
